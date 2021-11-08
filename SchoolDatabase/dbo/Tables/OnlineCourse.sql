@@ -1,4 +1,6 @@
-﻿CREATE TABLE [dbo].[OnlineCourse] (
+﻿--- Added Feature 2
+
+CREATE TABLE [dbo].[OnlineCourse] (
     [CourseID] INT            NOT NULL,
     [URL]      NVARCHAR (100) NOT NULL,
 	[CourseInstructor]      NVARCHAR (100) NOT NULL,
