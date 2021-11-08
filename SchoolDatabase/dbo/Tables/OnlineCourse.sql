@@ -1,3 +1,5 @@
+--- Added Feature 2
+
 -- Added Feature 3
 
 CREATE TABLE [dbo].[OnlineCourse] (
